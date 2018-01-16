@@ -1,6 +1,7 @@
 
 ./.idea/
 ./LeetCode_Java.iml
+./out/
 # Compiled class file
 *.class
 

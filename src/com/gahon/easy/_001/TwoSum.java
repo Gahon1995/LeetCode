@@ -13,7 +13,7 @@ package com.gahon.easy._001;
  *      Because nums[0] + nums[1] = 2 + 7 = 9,
  *      return [0, 1].
  *********************************************************/
-class Solution {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         for(int i=0;i<nums.length;++i){
             for(int j=i+1;j<nums.length;++j){
@@ -28,11 +28,11 @@ class Solution {
     /*
      *测试用例
      */
-    public static void main(String[] args) {
-        int nums[] = {2,7,11,15};
-        int target = 9;
-        Solution solution = new Solution();
-        int results[]=solution.twoSum(nums,target);
-        System.out.println(results[0]+" "+results[1]);
-    }
+//    public static void main(String[] args) {
+//        int nums[] = {2,7,11,15};
+//        int target = 9;
+//        TwoSum solution = new TwoSum();
+//        int results[]=solution.twoSum(nums,target);
+//        System.out.println(results[0]+" "+results[1]);
+//    }
 }

@@ -5,4 +5,4 @@
 |#|Title|Solution|Backup|
 |---|----| ----- |---------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](https://github.com/Gahon1995/LeetCode_Java/tree/master/src/com/gahon/easy/_001/TwoSum.java)|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](https://github.com/Gahon1995/LeetCode_Java/tree/master/src/com/gahon/medium/AddTwoNumbers.java)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](https://github.com/Gahon1995/LeetCode_Java/tree/master/src/com/gahon/medium/_002/AddTwoNumbers.java)|
